@@ -9,6 +9,14 @@ https://www.microsoft.com/cognitive-services/en-us/computer-vision-api
 This feature returns information about visual content found in an image. Use tagging, descriptions and domain-specific models to identify content and label it with confidence. Apply the adult/racy settings to enable automated restriction of adult content. Identify image types and color schemes in pictures.
 
 
+## Processing
+
+Connect to the API
+
+Get the responses from the Cognitive Service
+
+Decode the json file to csv format
+
 ### Example 
 Features:
 Feature Name	Value
