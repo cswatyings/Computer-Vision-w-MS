@@ -1,0 +1,6 @@
+category_num,tag_num,face_num,category,face y/n,age,gender,fc,bc,tag1,tag2,tag3
+3,2,0,others_,0,nan,nan,Yellow,Black,scoreboard,several,nan
+1,2,2,people_,1,90,Male,Black,Black,person,people,nan
+1,6,0,food_fastfood,0,nan,nan,Black,Black,food,plate,indoor
+1,2,1,people_group,1,26,Male,Black,Black,person,music,nan
+2,6,1,others_,1,27,Male,Yellow,Black,person,sport,basketball
