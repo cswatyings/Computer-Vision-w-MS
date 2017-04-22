@@ -6,4 +6,7 @@ https://www.microsoft.com/cognitive-services/en-us/computer-vision-api
 
 ## Analyze an image  
 
-This feature returns information about visual content found in an image. Use tagging, descriptions and domain-specific models to identify content and label it with confidence. Apply the adult/racy settings to enable automated restriction of adult content. Identify image types and color schemes in pictures.  Please try vision feature analysis demo by uploading a local image, or providing an image URL. We don’t keep your images for this demo unless you give us permission.
+This feature returns information about visual content found in an image. Use tagging, descriptions and domain-specific models to identify content and label it with confidence. Apply the adult/racy settings to enable automated restriction of adult content. Identify image types and color schemes in pictures.
+
+
+https://portalstoragewuprod.azureedge.net/vision/Analysis/1.jpg
